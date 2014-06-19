@@ -3,7 +3,7 @@
 
 Official repo of :shit: copro.js framework
 
-Waiting for contributors
+Waiting for copro :shit: contributors
 
 
 :shit: copro.js is property of :shit: Copro Corp :shit:
