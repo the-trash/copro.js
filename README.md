@@ -1,6 +1,6 @@
-copro.js
+:shit: copro.js
 ========
 
-Official repo of copro.js framework
+Official repo of :shit: copro.js framework
 
 Waiting for contributors
